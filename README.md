@@ -2,8 +2,8 @@
 Welcome! I am a proactive Security Engineer and an author of several books in the field of security, combining practical experience with academic insights. With over 9 years of experience in developing security solutions for electronic products and devices, my expertise lies in creating innovative approaches to safeguard against digital threats. Currently, I am furthering my knowledge as a Ph.D. student in Digital Forensics, deepening my understanding of this critical field.
 
 # Experience
-- Software Security Engineer, LG Electronics (2017-Present)
-- System Operator (First Lieutenant), Meteorological Data Center, Weather Wing, Republic of Korea Air Force (2012-2015)
+- Software Security Engineer (Senior Research Engineer), LG Electronics (2017-Present)
+- System Operator (First Lieutenant), Republic of Korea Air Force (2012-2015)
 
 
 # Education
