@@ -15,4 +15,5 @@ Welcome! I am a proactive Security Engineer and an author of several books in th
 - Detailed Bio: Explore more about my professional journey and insights on my [website](https://cpuu.github.io/).
 - Blog (Korean): Delve into my thoughts and expertise in Korean on my [Korean blog](https://cpuu.postype.com).
 - Blog (English): Read my articles and professional perspectives in English on my [English blog](https://cpuu.hashnode.dev).
+- Publications & Books: For a comprehensive overview of my academic publications, books I've authored, and translations, please visit my [Google Scholar](https://scholar.google.com/citations?user=p6FEiM4AAAAJ).
 - Email: Feel free to reach out to me at cpuu@icloud.com or cpuu@korea.ac.kr for professional inquiries or collaborations.
